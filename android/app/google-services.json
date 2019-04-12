@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "850977838078",
+    "firebase_url": "https://wheretowee-e5d3b.firebaseio.com",
+    "project_id": "wheretowee-e5d3b",
+    "storage_bucket": "wheretowee-e5d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850977838078:android:fb4e36f23c27075b",
+        "android_client_info": {
+          "package_name": "com.wheretowee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850977838078-80aaltenpd89d2f5ji1jln0vnrh38fue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEi_Esz5ZAc2ETa6eC9wawsrSfNWc0aIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
